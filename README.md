@@ -13,7 +13,7 @@ The app helps future drivers master the Highway Code/traffic rules, track their 
 
 ---
 
-## Roles in the Team (English)  
+## Roles in the Team
 Currently, all roles are performed by a single developer(Zub Yuriy):  
 - **Product Owner**  
 - **Team Lead / Architect**  
