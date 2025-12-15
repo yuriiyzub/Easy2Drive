@@ -1,0 +1,243 @@
+[
+  {
+    "id": "rr_nl_001",
+    "categoryId": "road-rules",
+    "question": "What is the maximum speed limit in built-up areas in the Netherlands?",
+    "options": [
+      "30 km/h",
+      "50 km/h",
+      "60 km/h",
+      "70 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The default maximum speed limit in built-up areas (where name boards are placed) is 50 km/h, unless signs indicate otherwise.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "speed", "urban"]
+  },
+  {
+    "id": "rr_nl_002",
+    "categoryId": "road-rules",
+    "question": "What is the maximum speed limit on motorways in the Netherlands?",
+    "options": [
+      "100 km/h",
+      "120 km/h",
+      "130 km/h",
+      "It varies by road and time"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Speed limits on motorways vary between 100-130 km/h depending on the road, time of day, and traffic conditions. Always check the signs.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["rules", "speed", "motorway"]
+  },
+  {
+    "id": "rr_nl_003",
+    "categoryId": "road-rules",
+    "question": "Is it mandatory to wear a seatbelt in the Netherlands?",
+    "options": [
+      "Only on motorways",
+      "Only in the front seats",
+      "Yes, for all occupants if available",
+      "No, it's optional"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wearing a seatbelt is mandatory for all vehicle occupants if the vehicle is equipped with seatbelts.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "safety", "seatbelt"]
+  },
+  {
+    "id": "rr_nl_004",
+    "categoryId": "road-rules",
+    "question": "Can you use a mobile phone while driving?",
+    "options": [
+      "Yes, if you keep one hand on the wheel",
+      "Yes, but only for navigation",
+      "Only with hands-free equipment",
+      "Never, even hands-free is prohibited"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Holding a mobile phone while driving is prohibited. You may only use it with hands-free equipment.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "phone", "safety"]
+  },
+  {
+    "id": "rr_nl_005",
+    "categoryId": "road-rules",
+    "question": "What is the legal blood alcohol limit for drivers in the Netherlands?",
+    "options": [
+      "0.0 promille (zero tolerance)",
+      "0.2 promille",
+      "0.5 promille",
+      "0.8 promille"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The legal limit is 0.5 promille (0.05%). For novice drivers (license less than 5 years) it's 0.2 promille.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["rules", "alcohol", "safety"]
+  },
+  {
+    "id": "rr_nl_006",
+    "categoryId": "road-rules",
+    "question": "When must you use dipped headlights?",
+    "options": [
+      "Only at night",
+      "Only in bad weather",
+      "Between sunset and sunrise, and when visibility is poor",
+      "Only on motorways"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dipped headlights must be used between sunset and sunrise, and during the day when visibility is significantly reduced.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "lights", "visibility"]
+  },
+  {
+    "id": "rr_nl_007",
+    "categoryId": "road-rules",
+    "question": "What is the minimum age to drive a car in the Netherlands?",
+    "options": [
+      "16 years",
+      "17 years",
+      "18 years",
+      "21 years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You must be at least 18 years old to drive a car independently. At 17, you can drive with supervision.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "age", "license"]
+  },
+  {
+    "id": "rr_nl_008",
+    "categoryId": "road-rules",
+    "question": "When are you allowed to overtake on the right?",
+    "options": [
+      "Never",
+      "When traffic in the left lane is moving slowly or stopped",
+      "Only on motorways",
+      "When the car ahead is turning left"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overtaking on the right is allowed when traffic in the left lane is moving slowly or is stationary in a traffic jam.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["rules", "overtaking"]
+  },
+  {
+    "id": "rr_nl_009",
+    "categoryId": "road-rules",
+    "question": "How far from a pedestrian crossing must you not park?",
+    "options": [
+      "3 meters",
+      "5 meters",
+      "10 meters",
+      "No restriction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must not park within 5 meters before a pedestrian crossing to ensure visibility for other drivers.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["rules", "parking", "crossing"]
+  },
+  {
+    "id": "rr_nl_010",
+    "categoryId": "road-rules",
+    "question": "What should you do when an emergency vehicle with lights and sirens approaches?",
+    "options": [
+      "Speed up to clear the way",
+      "Stop immediately wherever you are",
+      "Move to the side and stop if necessary",
+      "Continue at normal speed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You must move to the side of the road and stop if necessary to allow emergency vehicles to pass.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "emergency", "priority"]
+  },
+  {
+    "id": "rr_nl_011",
+    "categoryId": "road-rules",
+    "question": "Are winter tires mandatory in the Netherlands?",
+    "options": [
+      "Yes, from November to March",
+      "Yes, only in winter conditions",
+      "No, but recommended in winter",
+      "Yes, for all vehicles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Winter tires are not mandatory in the Netherlands, but they are recommended for better safety in winter conditions.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "tires", "winter"]
+  },
+  {
+    "id": "rr_nl_012",
+    "categoryId": "road-rules",
+    "question": "When must you use fog lights?",
+    "options": [
+      "Whenever it's dark",
+      "Only when visibility is less than 50 meters due to fog, snow, or heavy rain",
+      "Always in winter",
+      "Only on motorways"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fog lights may only be used when visibility is severely reduced (less than 50m) due to fog, snow, or heavy rain.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["rules", "lights", "fog"]
+  },
+  {
+    "id": "rr_nl_013",
+    "categoryId": "road-rules",
+    "question": "What is the maximum speed for cars towing a trailer on motorways?",
+    "options": [
+      "80 km/h",
+      "90 km/h",
+      "100 km/h",
+      "Same as regular cars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cars towing a trailer have a maximum speed of 90 km/h on motorways in the Netherlands.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["rules", "speed", "trailer"]
+  },
+  {
+    "id": "rr_nl_014",
+    "categoryId": "road-rules",
+    "question": "When approaching a roundabout, who has priority?",
+    "options": [
+      "Vehicles entering the roundabout",
+      "Vehicles already on the roundabout",
+      "Vehicles from the right",
+      "Largest vehicle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vehicles already on the roundabout have priority over vehicles entering, unless signs indicate otherwise.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "roundabout", "priority"]
+  },
+  {
+    "id": "rr_nl_015",
+    "categoryId": "road-rules",
+    "question": "Is it allowed to drive in a bus lane?",
+    "options": [
+      "Yes, if no bus is coming",
+      "Yes, to turn right",
+      "Only taxis and buses",
+      "Never"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bus lanes are reserved for buses and often taxis. Regular cars may not use them unless explicitly allowed by signs.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["rules", "bus-lane"]
+  }
+]
+

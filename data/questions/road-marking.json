@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rm_nl_001",
+    "categoryId": "road-marking",
+    "question": "What does a solid white line mean?",
+    "options": [
+      "You may cross it to overtake",
+      "You may not cross it",
+      "It's just a guideline",
+      "You may cross it to park"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A solid white line may not be crossed. It separates traffic lanes or marks the edge of the road.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "line"]
+  },
+  {
+    "id": "rm_nl_002",
+    "categoryId": "road-marking",
+    "question": "What does a dashed white line mean?",
+    "options": [
+      "No overtaking",
+      "You may cross it when safe",
+      "Bicycle lane",
+      "No parking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A dashed white line may be crossed when it's safe to do so, for example when overtaking or changing lanes.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "line"]
+  },
+  {
+    "id": "rm_nl_003",
+    "categoryId": "road-marking",
+    "question": "What do white stripes (zebra crossing) indicate?",
+    "options": [
+      "Speed bump",
+      "Pedestrian crossing",
+      "Bicycle crossing",
+      "No parking zone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "White stripes across the road indicate a pedestrian crossing where pedestrians have priority.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "crossing"]
+  },
+  {
+    "id": "rm_nl_004",
+    "categoryId": "road-marking",
+    "question": "What do yellow zig-zag lines mean?",
+    "options": [
+      "School zone",
+      "No stopping",
+      "Speed camera zone",
+      "Roadworks ahead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yellow zig-zag lines indicate no stopping or parking is allowed in that area.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["marking", "parking"]
+  },
+  {
+    "id": "rm_nl_005",
+    "categoryId": "road-marking",
+    "question": "What does a solid yellow line at the edge mean?",
+    "options": [
+      "Parking allowed",
+      "No stopping or parking",
+      "Bicycle lane",
+      "Bus lane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A solid yellow line at the road edge indicates no stopping or parking is allowed.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "parking"]
+  },
+  {
+    "id": "rm_nl_006",
+    "categoryId": "road-marking",
+    "question": "What do 'shark teeth' markings mean?",
+    "options": [
+      "Speed bumps",
+      "Give way to traffic on the other road",
+      "School crossing",
+      "Bicycle priority"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shark teeth (haaientanden) markings indicate you must give way to traffic on the intersecting road.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "priority"]
+  },
+  {
+    "id": "rm_nl_007",
+    "categoryId": "road-marking",
+    "question": "What does a white diamond marking on the road indicate?",
+    "options": [
+      "Speed camera",
+      "Priority road",
+      "Roundabout ahead",
+      "Exit only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A white diamond on the road indicates you are on a priority road and have right of way.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["marking", "priority"]
+  },
+  {
+    "id": "rm_nl_008",
+    "categoryId": "road-marking",
+    "question": "What do red asphalt or red markings typically indicate?",
+    "options": [
+      "Emergency lane",
+      "Bicycle path or lane",
+      "No entry",
+      "School zone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red colored asphalt or markings typically indicate a bicycle path or dedicated bicycle lane.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "bicycle"]
+  },
+  {
+    "id": "rm_nl_009",
+    "categoryId": "road-marking",
+    "question": "What does a broken line next to a solid line mean?",
+    "options": [
+      "Both lanes may cross",
+      "Neither lane may cross",
+      "Only traffic next to the broken line may cross",
+      "Emergency vehicles only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "With a broken and solid line combination, only traffic on the side of the broken line may cross.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["marking", "line"]
+  },
+  {
+    "id": "rm_nl_010",
+    "categoryId": "road-marking",
+    "question": "What does a white bicycle symbol painted on the road mean?",
+    "options": [
+      "Bicycles prohibited",
+      "Bicycle lane or path",
+      "Bicycle parking",
+      "Bicycle crossing ahead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A white bicycle symbol indicates a dedicated bicycle lane or path.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["marking", "bicycle"]
+  }
+]

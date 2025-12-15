@@ -1,0 +1,75 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Модель користувача
+model User {
+  id            String       @id @default(cuid())
+  email         String       @unique
+  name          String?
+  image         String?
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+  quizResults   QuizResult[]
+  profile       UserProfile?
+}
+
+// Профіль користувача з додатковими даними
+model UserProfile {
+  id              String    @id @default(cuid())
+  userId          String    @unique
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  phone           String?
+  dateOfBirth     DateTime?
+  city            String?
+  address         String?
+  licenseCategory String    @default("B")
+  experience      String    @default("beginner")
+  notifications   Boolean   @default(true)
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+}
+
+// Результат проходження тесту
+model QuizResult {
+  id              String   @id @default(cuid())
+  userId          String
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  categoryId      String   // ID категорії з JSON
+  quizType        String   // 'category', 'mixed', 'exam', 'mistakes'
+  answers         String   // JSON string з відповідями
+  score           Int
+  totalQuestions  Int
+  correctAnswers  Int
+  percentage      Float
+  timeSpent       Int      // секунди
+  passed          Boolean
+  completedAt     DateTime @default(now())
+
+  @@index([userId])
+  @@index([categoryId])
+  @@index([completedAt])
+}
+
+// Збережені помилкові відповіді для роботи над помилками
+model MistakeQuestion {
+  id             String   @id @default(cuid())
+  userId         String
+  questionId     String   // ID питання з JSON
+  categoryId     String
+  wrongAttempts  Int      @default(1)
+  lastAttempt    DateTime @default(now())
+  resolved       Boolean  @default(false) // Чи вирішено правильно
+
+  @@unique([userId, questionId])
+  @@index([userId])
+  @@index([resolved])
+}

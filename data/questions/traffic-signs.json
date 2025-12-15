@@ -1,0 +1,257 @@
+[
+  {
+    "id": "ts_nl_001",
+    "categoryId": "traffic-signs",
+    "question": "What does the octagonal red sign with white text 'STOP' mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NL_B07.svg/200px-NL_B07.svg.png",
+    "options": [
+      "Mandatory stop - you must come to a complete stop",
+      "Slow down and proceed with caution",
+      "Stop only if other traffic is approaching",
+      "Stop only at red light"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The STOP sign (B07 in RVV) requires drivers to come to a complete stop at the stop line or intersection before proceeding.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "mandatory", "stop", "B07"]
+  },
+  {
+    "id": "ts_nl_002",
+    "categoryId": "traffic-signs",
+    "question": "What shape are warning signs in the Netherlands?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NL_J01.svg/200px-NL_J01.svg.png",
+    "options": [
+      "Circular with red border",
+      "Triangular with red border",
+      "Square with blue background",
+      "Diamond with yellow background"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Warning signs in the Netherlands are triangular with a red border and white background (J series in RVV).",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "warning", "shape"]
+  },
+  {
+    "id": "ts_nl_003",
+    "categoryId": "traffic-signs",
+    "question": "What does a circular sign with a red border and white background mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NL_C01.svg/200px-NL_C01.svg.png",
+    "options": [
+      "Warning sign",
+      "Mandatory instruction",
+      "Prohibition sign",
+      "Information sign"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Circular signs with red borders are prohibition signs (C and E series in RVV), indicating what is not allowed.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "prohibition"]
+  },
+  {
+    "id": "ts_nl_004",
+    "categoryId": "traffic-signs",
+    "question": "What does a blue circular sign with a white arrow pointing right mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NL_D03r.svg/200px-NL_D03r.svg.png",
+    "options": [
+      "Turn right only - mandatory direction",
+      "Right turn recommended",
+      "Right lane closed ahead",
+      "No right turn"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue circular signs indicate mandatory actions. This sign (D03 in RVV) requires drivers to turn right.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "mandatory", "direction", "D03"]
+  },
+  {
+    "id": "ts_nl_005",
+    "categoryId": "traffic-signs",
+    "question": "What does a triangular sign with a red border showing a bicycle mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NL_J24.svg/200px-NL_J24.svg.png",
+    "options": [
+      "Watch out for cyclists",
+      "Bicycle path ahead",
+      "No bicycles allowed",
+      "Bicycle parking"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This is a warning sign (J24 in RVV) alerting drivers to watch for cyclists crossing or sharing the road.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "warning", "cyclists", "J24"]
+  },
+  {
+    "id": "ts_nl_006",
+    "categoryId": "traffic-signs",
+    "question": "What does a blue square sign with a white 'P' mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NL_E04.svg/200px-NL_E04.svg.png",
+    "options": [
+      "Parking allowed",
+      "No parking",
+      "Parking for disabled only",
+      "Paid parking"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue square signs with white symbols indicate permissions. This sign (E04 in RVV) indicates a parking area.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "parking", "information", "E04"]
+  },
+  {
+    "id": "ts_nl_007",
+    "categoryId": "traffic-signs",
+    "question": "What does a triangular warning sign with an exclamation mark mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NL_J37.svg/200px-NL_J37.svg.png",
+    "options": [
+      "General danger - be alert",
+      "Road works ahead",
+      "Slippery road",
+      "Sharp curve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The exclamation mark sign (J37 in RVV) warns of general danger or hazards not covered by other specific warning signs.",
+    "difficulty": "medium",
+    "points": 2,
+    "tags": ["signs", "warning", "danger", "J37"]
+  },
+  {
+    "id": "ts_nl_008",
+    "categoryId": "traffic-signs",
+    "question": "What does a red circular sign with a car symbol crossed out mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NL_C06.svg/200px-NL_C06.svg.png",
+    "options": [
+      "No motor vehicles allowed",
+      "No parking",
+      "Cars must turn around",
+      "Car wash ahead"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This prohibition sign (C06 in RVV) indicates that motor vehicles are not allowed to enter.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "prohibition", "vehicles", "C06"]
+  },
+  {
+    "id": "ts_nl_009",
+    "categoryId": "traffic-signs",
+    "question": "What does a blue circular sign with a white bicycle symbol mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NL_G11.svg/200px-NL_G11.svg.png",
+    "options": [
+      "Mandatory bicycle path - cyclists must use this path",
+      "Bicycle parking",
+      "Watch out for bicycles",
+      "Bicycles allowed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This mandatory sign (G11 in RVV) indicates a path that must be used by cyclists.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "mandatory", "bicycle", "G11"]
+  },
+  {
+    "id": "ts_nl_010",
+    "categoryId": "traffic-signs",
+    "question": "What does a triangular sign showing two cars side by side mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NL_J23.svg/200px-NL_J23.svg.png",
+    "options": [
+      "Two-way traffic ahead",
+      "Overtaking allowed",
+      "Two lanes merge",
+      "Parking for two cars"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This warning sign (J23 in RVV) indicates that two-way traffic is ahead, often after a one-way section.",
+    "difficulty": "medium",
+    "points": 2,
+    "tags": ["signs", "warning", "traffic", "J23"]
+  },
+  {
+    "id": "ts_nl_011",
+    "categoryId": "traffic-signs",
+    "question": "What does a blue circular sign with two white arrows (one up, one down) mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/NL_D01.svg/200px-NL_D01.svg.png",
+    "options": [
+      "Two-way traffic on this road",
+      "Overtaking allowed",
+      "Turn around allowed",
+      "Elevator ahead"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This mandatory sign (D01 in RVV) indicates that traffic flows in both directions on this road.",
+    "difficulty": "medium",
+    "points": 2,
+    "tags": ["signs", "mandatory", "two-way", "D01"]
+  },
+  {
+    "id": "ts_nl_012",
+    "categoryId": "traffic-signs",
+    "question": "What does a red circular sign with '50' in black mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NL_A01-50.svg/200px-NL_A01-50.svg.png",
+    "options": [
+      "Maximum speed limit is 50 km/h",
+      "Minimum speed is 50 km/h",
+      "50 meters to next exit",
+      "Road number 50"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Red circular signs with numbers (A01 series in RVV) indicate maximum speed limits in km/h.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "speed", "limit", "A01"]
+  },
+  {
+    "id": "ts_nl_013",
+    "categoryId": "traffic-signs",
+    "question": "What does a triangular sign with a red border showing children mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NL_J21.svg/200px-NL_J21.svg.png",
+    "options": [
+      "School or children crossing - drive carefully",
+      "Playground ahead",
+      "Children not allowed",
+      "Daycare center"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This warning sign (J21 in RVV) alerts drivers to areas where children may be crossing, such as near schools.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "warning", "children", "J21"]
+  },
+  {
+    "id": "ts_nl_014",
+    "categoryId": "traffic-signs",
+    "question": "What does a blue circular sign with a white arrow pointing upward mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/NL_D02.svg/200px-NL_D02.svg.png",
+    "options": [
+      "Mandatory direction - proceed straight ahead only",
+      "One-way street",
+      "Uphill road",
+      "Priority road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This mandatory sign (D02 in RVV) requires drivers to proceed straight ahead only.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["signs", "mandatory", "direction", "D02"]
+  },
+  {
+    "id": "ts_nl_015",
+    "categoryId": "traffic-signs",
+    "question": "What does a triangular sign with a red border showing a tram mean?",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NL_J15.svg/200px-NL_J15.svg.png",
+    "options": [
+      "Watch out for trams crossing",
+      "Tram stop ahead",
+      "No trams allowed",
+      "Tram route"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This warning sign (J15 in RVV) warns drivers to watch for trams that may cross or share the road.",
+    "difficulty": "medium",
+    "points": 2,
+    "tags": ["signs", "warning", "tram", "J15"]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pr_nl_001",
+    "categoryId": "priority",
+    "question": "At an intersection without signs, who has priority?",
+    "options": [
+      "Traffic from the left",
+      "Traffic from the right",
+      "Traffic going straight",
+      "Fastest vehicle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "At unsignposted intersections, you must give way to traffic coming from the right (rechts voor regel).",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "intersection", "right-of-way"]
+  },
+  {
+    "id": "pr_nl_002",
+    "categoryId": "priority",
+    "question": "You are on a priority road (yellow diamond sign). Who must give way?",
+    "options": [
+      "You must give way to all traffic",
+      "Traffic from side roads must give way to you",
+      "Everyone has equal priority",
+      "Only cyclists must give way"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When you're on a priority road, traffic from side roads must give way to you.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "priority-road"]
+  },
+  {
+    "id": "pr_nl_003",
+    "categoryId": "priority",
+    "question": "Who has priority: a tram or a car?",
+    "options": [
+      "Car always",
+      "Tram always has priority",
+      "Depends on road signs",
+      "Whoever arrives first"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trams almost always have priority over other traffic, unless specifically indicated otherwise.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "tram"]
+  },
+  {
+    "id": "pr_nl_004",
+    "categoryId": "priority",
+    "question": "You want to turn right. A cyclist is going straight. Who has priority?",
+    "options": [
+      "You have priority",
+      "The cyclist has priority",
+      "Whoever is faster",
+      "Depends on traffic lights"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When turning, you must give way to cyclists and pedestrians who are going straight or coming from the same direction.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["priority", "cyclist", "turning"]
+  },
+  {
+    "id": "pr_nl_005",
+    "categoryId": "priority",
+    "question": "At a pedestrian crossing without traffic lights, who has priority?",
+    "options": [
+      "Cars have priority",
+      "Pedestrians who are crossing or clearly intend to cross",
+      "Whoever arrives first",
+      "Bicycles have priority"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pedestrians at a zebra crossing have priority. You must give way if they are crossing or clearly intend to cross.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "pedestrian", "crossing"]
+  },
+  {
+    "id": "pr_nl_006",
+    "categoryId": "priority",
+    "question": "You're leaving a parking space. Who has priority?",
+    "options": [
+      "You have priority",
+      "Traffic on the road has priority",
+      "Bicycles have priority",
+      "No one has priority"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When leaving a parking space or driveway, you must give way to all traffic on the road.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "parking"]
+  },
+  {
+    "id": "pr_nl_007",
+    "categoryId": "priority",
+    "question": "At a roundabout, who has priority?",
+    "options": [
+      "Traffic entering the roundabout",
+      "Traffic already on the roundabout",
+      "Traffic from the right",
+      "Cyclists always"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Traffic already on the roundabout has priority over traffic entering, unless otherwise indicated.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "roundabout"]
+  },
+  {
+    "id": "pr_nl_008",
+    "categoryId": "priority",
+    "question": "You see a 'shark teeth' marking. What does it mean?",
+    "options": [
+      "Speed bump ahead",
+      "You must give way",
+      "Bicycle crossing",
+      "Priority road"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shark teeth (haaientanden) road markings indicate you must give way to traffic on the intersecting road.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["priority", "marking", "give-way"]
+  },
+  {
+    "id": "pr_nl_009",
+    "categoryId": "priority",
+    "question": "An emergency vehicle with lights and sirens approaches. What do you do?",
+    "options": [
+      "Speed up to get out of the way",
+      "Stop immediately",
+      "Move aside and stop if necessary to let it pass",
+      "Continue normally"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You must move to the side and stop if necessary to allow emergency vehicles with lights and sirens to pass safely.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "emergency"]
+  },
+  {
+    "id": "pr_nl_010",
+    "categoryId": "priority",
+    "question": "You're turning left at an intersection. Oncoming traffic is going straight. Who has priority?",
+    "options": [
+      "You have priority",
+      "Oncoming traffic has priority",
+      "Whoever signals first",
+      "No one has priority"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When turning left, you must give way to oncoming traffic that is going straight or turning right.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["priority", "turning", "left"]
+  },
+  {
+    "id": "pr_nl_011",
+    "categoryId": "priority",
+    "question": "A bus is indicating to leave a bus stop. What should you do?",
+    "options": [
+      "Speed past before it leaves",
+      "Give way to the bus",
+      "Sound your horn",
+      "Maintain your speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must give way to buses that indicate they are leaving a bus stop in built-up areas.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["priority", "bus"]
+  },
+  {
+    "id": "pr_nl_012",
+    "categoryId": "priority",
+    "question": "In a traffic jam, you need to merge. What is the rule?",
+    "options": [
+      "Faster cars have priority",
+      "Use the zipper method - take turns merging",
+      "Right lane always has priority",
+      "Left lane always has priority"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The zipper method (ritsen) requires drivers to take turns merging one vehicle at a time from each lane.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["priority", "merging", "zipper"]
+  }
+]

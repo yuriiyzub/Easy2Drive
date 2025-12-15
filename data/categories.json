@@ -1,0 +1,47 @@
+[
+  {
+    "id": "traffic-signs",
+    "name": "Traffic Signs (RVV)",
+    "description": "Learn Dutch traffic signs and their meanings according to RVV regulations",
+    "icon": "🚦",
+    "color": "bg-blue-500",
+    "totalQuestions": 15,
+    "order": 1
+  },
+  {
+    "id": "road-rules",
+    "name": "Road Rules",
+    "description": "Master the Dutch traffic rules and regulations",
+    "icon": "📋",
+    "color": "bg-green-500",
+    "totalQuestions": 15,
+    "order": 2
+  },
+  {
+    "id": "priority",
+    "name": "Priority Rules",
+    "description": "Understand right-of-way and priority situations",
+    "icon": "⚠️",
+    "color": "bg-yellow-500",
+    "totalQuestions": 12,
+    "order": 3
+  },
+  {
+    "id": "road-marking",
+    "name": "Road Markings",
+    "description": "Learn about road markings and their meanings",
+    "icon": "🛣️",
+    "color": "bg-purple-500",
+    "totalQuestions": 10,
+    "order": 4
+  },
+  {
+    "id": "speed-limits",
+    "name": "Speed Limits",
+    "description": "Know the speed limits in different areas and conditions",
+    "icon": "🏁",
+    "color": "bg-red-500",
+    "totalQuestions": 10,
+    "order": 5
+  }
+]

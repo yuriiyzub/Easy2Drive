@@ -1,0 +1,163 @@
+[
+  {
+    "id": "sl_nl_001",
+    "categoryId": "speed-limits",
+    "question": "What is the default speed limit in residential areas (30 km/h zones)?",
+    "options": [
+      "20 km/h",
+      "30 km/h",
+      "40 km/h",
+      "50 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In designated 30 km/h zones (often residential areas), the speed limit is 30 km/h.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["speed", "residential"]
+  },
+  {
+    "id": "sl_nl_002",
+    "categoryId": "speed-limits",
+    "question": "What is the default speed limit outside built-up areas?",
+    "options": [
+      "60 km/h",
+      "80 km/h",
+      "90 km/h",
+      "100 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The default speed limit outside built-up areas is 80 km/h, unless signs indicate otherwise.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["speed", "rural"]
+  },
+  {
+    "id": "sl_nl_003",
+    "categoryId": "speed-limits",
+    "question": "What is the typical speed limit during rush hour on many motorways?",
+    "options": [
+      "80 km/h",
+      "100 km/h",
+      "120 km/h",
+      "130 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Many motorways have a reduced speed limit of 100 km/h during rush hour (typically 6:00-19:00) to reduce emissions.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["speed", "motorway", "rush-hour"]
+  },
+  {
+    "id": "sl_nl_004",
+    "categoryId": "speed-limits",
+    "question": "What is the maximum speed for cars with trailers on motorways?",
+    "options": [
+      "80 km/h",
+      "90 km/h",
+      "100 km/h",
+      "Same as cars"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cars towing trailers have a maximum speed of 90 km/h on motorways.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["speed", "trailer"]
+  },
+  {
+    "id": "sl_nl_005",
+    "categoryId": "speed-limits",
+    "question": "When do you see the place name sign indicating the start of a built-up area?",
+    "options": [
+      "Speed limit becomes 30 km/h",
+      "Speed limit becomes 50 km/h",
+      "Speed limit becomes 60 km/h",
+      "No change in speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A place name sign (white with blue border) indicates the start of a built-up area where the speed limit becomes 50 km/h.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["speed", "signs"]
+  },
+  {
+    "id": "sl_nl_006",
+    "categoryId": "speed-limits",
+    "question": "What does a speed limit end sign (crossed out number) mean?",
+    "options": [
+      "Go as fast as you want",
+      "Return to the default speed limit for that road type",
+      "Stop ahead",
+      "Speed cameras ahead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When a speed limit ends, you return to the default limit for that type of road (50 in built-up areas, 80 outside, etc.).",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["speed", "signs"]
+  },
+  {
+    "id": "sl_nl_007",
+    "categoryId": "speed-limits",
+    "question": "Can you exceed the speed limit to overtake?",
+    "options": [
+      "Yes, by up to 10 km/h",
+      "Yes, if it's safe",
+      "No, never",
+      "Only on motorways"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You may never exceed the speed limit, even when overtaking. Plan your overtaking accordingly.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["speed", "overtaking"]
+  },
+  {
+    "id": "sl_nl_008",
+    "categoryId": "speed-limits",
+    "question": "What is the speed limit in a woonerf (residential yard)?",
+    "options": [
+      "Walking pace (around 15 km/h)",
+      "20 km/h",
+      "30 km/h",
+      "50 km/h"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In a woonerf (shared space), you must drive at walking pace, generally understood as around 15 km/h.",
+    "difficulty": "medium",
+    "points": 1,
+    "tags": ["speed", "woonerf"]
+  },
+  {
+    "id": "sl_nl_009",
+    "categoryId": "speed-limits",
+    "question": "Are speed limits mandatory or advisory?",
+    "options": [
+      "Only advisory",
+      "Mandatory - exceeding them is illegal",
+      "Mandatory only in bad weather",
+      "Only mandatory for trucks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed limits are mandatory regulations. Exceeding them is illegal and can result in fines.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["speed", "law"]
+  },
+  {
+    "id": "sl_nl_010",
+    "categoryId": "speed-limits",
+    "question": "What should you do if weather conditions are poor?",
+    "options": [
+      "Drive at the speed limit",
+      "Drive faster to get out of the area quickly",
+      "Reduce speed even if below the limit",
+      "Stop immediately"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In poor weather conditions, you should reduce your speed even if it's below the posted limit to maintain safety.",
+    "difficulty": "easy",
+    "points": 1,
+    "tags": ["speed", "weather", "safety"]
+  }
+]
+
